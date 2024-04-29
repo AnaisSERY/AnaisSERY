@@ -1,5 +1,5 @@
 # 💫 About Me:
-En formation dév Fullstack à l'école O'clock, j'étudie actuellement JavaScript en front et en back.<br>Je suis à la recherche d'un stage sur Clermont-Ferrand pour 2 mois (min) pour pratiquer "sur le terrain" ce que j'aurai appris au cours de la formation.<br><br><br>
+En formation dév Fullstack à l'école O'clock, j'étudie actuellement JavaScript en front et en back.<br>Je suis à la recherche d'un stage sur Limoges pour 2 mois (min) pour pratiquer "sur le terrain" ce que j'aurai appris au cours de la formation.<br><br><br>
 
 
 ## 🌐 Socials:
